@@ -1,0 +1,6 @@
+{
+  "name": "OP-X Synth",
+  "description": "OP-X Mobile Synthetic Workstation with low-latency DSP audio engine, polyphonic oscillators, and signature color encoders",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
